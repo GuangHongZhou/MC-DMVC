@@ -1,0 +1,1 @@
+model_path = args.model_root_path + args.dataset +'/' + args.dataset +'_' + str(view) +'_' + str(lam) + '.pth'

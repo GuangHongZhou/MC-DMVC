@@ -1,1 +1,9 @@
 model_path = args.model_root_path + args.dataset +'/' + args.dataset +'_' + str(view) +'_' + str(lam) + '.pth'
+
+## datasets and models
+https://drive.google.com/drive/folders/1HvNtQ1nmaxyFHcoHrK93w7E5UFgKK0ur?usp=sharing
+ 
+or
+
+https://pan.quark.cn/s/bb70e6c842e2
+code：vx2Q
